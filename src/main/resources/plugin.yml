@@ -1,0 +1,4 @@
+name: PlayerBodyRotationResolver
+version: '${project.version}'
+main: xyz.larkyy.playerbodyrotationresolver.PlayerBodyRotationResolver
+api-version: 1.19
